@@ -1,4 +1,4 @@
-# Web Experience Toolkit (WET)
+# Web Experience Toolkit (WET) Test local
 
 [![Build Status](https://secure.travis-ci.org/wet-boew/wet-boew.png?branch=master)](http://travis-ci.org/wet-boew/wet-boew)
 
